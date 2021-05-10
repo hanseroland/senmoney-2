@@ -1,0 +1,27 @@
+1: Account balance
+2: Money transfer
+3: Bill payment
+4: Option;
+This function is unavailable;
+Do you want to continue ?
+1: YES
+2: NO;
+Goodbye!;
+Enter your code:;
+Your balance is:;
+Your number does not exist !;
+Enter the recipient's number;
+This number is not valid;
+Enter the transfer amount;
+Your balance is insufficient;
+You transferred;
+at;
+Your new balance is:;
+Your number does not exist !;
+1: Balance of my accounts
+2: Last five transactions
+3: Modification of the secret code
+4: Status consultation
+5: Registration
+6: Reset my secret code
+7: Unblock my account

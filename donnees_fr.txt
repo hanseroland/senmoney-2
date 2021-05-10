@@ -1,0 +1,27 @@
+1 : Solde du compte
+2 : Transfert d'argent
+3 : Paiement facture
+4 : Option;
+Cette fonction est indisponible;
+Voulez vous continuez ?
+1 : OUI
+2 : NON;
+Au revoir!;
+Donnez votre code: ;
+Votre solde est de : ;
+Votre numéro  n'existe pas!;
+Entrer le numéro du destinataire;
+Ce numéro n'est pas valide;
+Entrer le montant de transfert;
+Votre solde est insuffisant;
+Vous avez transféré ;
+au;
+Votre nouveau solde est de : ;
+Votre numéro  n'existe pas!;
+1 : Solde de mes comptes
+2 : Cinq dernères transactions
+3 : Modification du code secret
+4 : Consultation Statut
+5 : Inscription
+6 : Réinitialiser mon code secret
+7 : Débloquer mon compte

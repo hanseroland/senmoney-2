@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Sen Money</title>
+    <script src="jquery/jquery-3.3.1.min.js"></script>
+    <script src="script1.js"></script>
+
+</head>
+
+<body>
+    <div class="container">
+        <div class="container-form">
+
+            <div class="title">
+                <h1 class="h1">Sen Money</h1>
+            </div>
+
+
+            <form name="form" id="form">
+                <div class="contact">
+                    <label for="">contacts  </label>
+                    <select name="" id="num">
+                        <script>
+                            var txt = "";
+                            for(let i=0;i<tabNumeros.length;i++){
+                                txt += "<option >"+tabNumeros[i]+"</option>";
+                            }
+                            document.write(txt);
+                        </script>
+                    </select>
+                </div>
+
+                <div class="divlg">
+                    <label for="">langues  </label>
+                    <select name="" id="lang">
+                        <script>
+                            var lg = "";
+                            for(let i=0;i<tabLangues.length;i++){
+                                lg += "<option >"+tabLangues[i]+"</option>";
+                            }
+                            document.write(lg);
+                        </script>
+                    </select>
+                </div>
+
+            </form>
+            <button id="btn">#221#</button>
+
+        </div>
+
+    </div>
+</body>
+
+</html>

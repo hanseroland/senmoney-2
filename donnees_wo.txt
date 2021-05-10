@@ -1,0 +1,27 @@
+1 : Sama solde compte
+2 : Yooné xaliss
+3 : Feye facture
+4 : Taanef;
+Bi nga tanne djapandi woul;
+kontine ?
+1 : Waw
+2 : dètt;
+Ba bénène yoone !;
+Diokhèl sa code :;
+Sa solde mogui toolou si : ;
+Sa numéro bii baakhoul!;
+Dougaleul numéro koukay diote  : ;
+numéro bi dokhoul !;
+Dougaleul ndieugou liguay yoonè ;
+Sa solde bi matoull ;
+Yoonègua;
+sii;
+sa solde bou bèss bi moogui toolou si;
+Sa numéro bii baakhoul!;
+1. Li nèk si samay gafaka
+2. Juroomi jokalanté you moudj yi 
+3. Soopi thiabi bou kèn waroul kham bi
+4. Kholl statut 
+5. Bindou
+6. Soopi thia namou méloone sama thiaabi bou kèn waroul kham bi
+7. Oubi sama gafaka bi teudjou woone
